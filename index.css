@@ -1,0 +1,93 @@
+@media screen and (max-width: 1223px) {
+   
+    
+    .topbanner2 {
+        height: 20vh;
+    }
+ 
+    
+    
+    
+}
+
+
+
+
+@media screen and (max-width: 810px) {
+   
+    #abtfoot {
+        padding: 5px;
+     
+    }
+      #foot {
+        padding: 5px;
+        float: none;
+    }
+    #footercontent {
+           word-wrap: break-word;
+  overflow-wrap: break-word;
+        width: 100%;
+        float: none;
+        border-bottom: 1px solid white;
+    }
+  
+    
+}
+@media screen and (max-width: 555px) {
+   
+    
+    .about {
+        padding: 10px;
+    }
+    
+    
+    
+}
+
+@media screen and (max-width: 335px) {
+   
+    .cars2 {
+        width: 100%;
+    }
+    .carspic {
+        width: 100%;
+    }
+    
+    
+}
+
+
+@media screen and (max-width: 314px) {
+   
+    body{
+        overflow-x: hidden;
+    }
+    
+}
+
+@media screen and (max-width: 640px) {
+   
+    .inboxmessagecontainer {
+        width:90%;
+       margin:auto;
+       
+    }
+    .inboxtext {
+        width:90%;
+       
+          margin-top:10px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .bodyinbxcontainer {
+    width: 100%;
+  
+}
+}
+
+
+
+
+
+
+

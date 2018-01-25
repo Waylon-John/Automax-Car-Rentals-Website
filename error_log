@@ -1,0 +1,62 @@
+[05-Aug-2017 11:34:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/automaxr/public_html/about-us.php on line 3
+[05-Aug-2017 11:42:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/automaxr/public_html/about-us.php on line 3
+[05-Aug-2017 11:43:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/automaxr/public_html/about-us.php on line 3
+[05-Aug-2017 11:53:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/automaxr/public_html/about-us.php on line 3
+[05-Aug-2017 11:59:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/automaxr/public_html/about-us.php on line 3
+[05-Aug-2017 11:59:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/automaxr/public_html/about-us.php on line 3
+[05-Aug-2017 12:01:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/automaxr/public_html/messagenotif.php on line 3
+[05-Aug-2017 12:01:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/automaxr/public_html/messagenotif.php on line 3
+[05-Aug-2017 12:01:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/automaxr/public_html/messagenotif.php on line 3
+[05-Aug-2017 12:02:35 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/automaxr/public_html/messagenotif.php on line 3
+[05-Aug-2017 12:03:11 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:03:18 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:03:18 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:03:24 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:04:18 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:04:20 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:04:21 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:04:23 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:05:26 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:05:28 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/automaxr/public_html/about-us.php on line 4
+[05-Aug-2017 12:07:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[05-Aug-2017 17:06:46 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[05-Aug-2017 17:23:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[05-Aug-2017 21:12:13 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[05-Aug-2017 21:14:11 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[06-Aug-2017 02:41:20 UTC] PHP Fatal error:  Call to undefined function displaymessage() in /home/automaxr/public_html/message.php on line 219
+[06-Aug-2017 05:42:35 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/customerupdate.php on line 108
+[07-Aug-2017 00:51:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[07-Aug-2017 02:04:03 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 138
+[07-Aug-2017 10:10:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[07-Aug-2017 10:10:25 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[07-Aug-2017 10:10:28 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[07-Aug-2017 10:10:30 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[07-Aug-2017 10:10:33 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[07-Aug-2017 11:38:18 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[08-Aug-2017 08:27:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[08-Aug-2017 08:27:27 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[08-Aug-2017 08:27:32 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:58:15 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:58:17 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:58:18 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:58:19 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:58:19 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:58:43 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:14 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:15 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:25 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:36 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:36 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:43 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:48 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:48 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:57 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 06:59:57 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:01 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:01 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:02 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:04 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:47 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:51 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145
+[12-Aug-2017 07:00:55 UTC] PHP Fatal error:  Call to a member function close() on null in /home/automaxr/public_html/book.php on line 145

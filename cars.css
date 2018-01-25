@@ -1,0 +1,102 @@
+@media screen and (max-width: 760px) {
+    .addform {
+        height: auto;
+    }
+    #addside {
+        width: 100%;
+        height: auto;
+       
+    }
+    #carside {
+       
+        margin:10px auto;
+        width: 100%;
+        height: 400px;
+    }
+   
+}
+
+
+
+@media screen and (max-width: 485px) {
+    .custablecontainer {
+        text-align: center;
+    }
+    #anf {
+        width: 100%;
+    }
+    .receipt {
+        width: 100%;
+     text-align: center;
+        height: 250px;
+       
+    }
+    .reservetable {
+    margin: auto;
+        width: 100%;
+    }
+    .reserve{
+        width: 100%;
+    }
+      .reservef{
+          margin-left:0px;
+          margin-right:0px;
+        width: 100%;
+    }
+    .recheader {
+        width: 300px;;
+       
+        
+    }
+    .receipttext {
+        width: 300px;
+        margin: auto;
+    }
+    .reservationheader {
+        width: 100%;
+    }
+    
+    
+    .cusreservetable {
+        width: 300px;
+    }
+    .uploadrec {
+        width: 300px;
+    }
+    .cusreserve {
+        width: 100%;
+    }
+    
+
+}
+@media screen and (max-width: 795px) {
+    .termsbody {
+        padding: 10px;
+    }
+    #abtfoot {
+        padding: 10px;
+    }
+
+}
+
+
+
+    
+
+@media screen and (max-width: 440px) {
+    .creservetable {
+        width: 100%;
+    }
+    .rtablecontainer {
+        width: 100%;
+    }
+    #rtext {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .cars2admin {
+        width: auto;
+    }
+}

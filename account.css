@@ -1,0 +1,35 @@
+@media screen and (max-width: 460px) {
+    .logincontainer {
+        width: 95%;
+    }
+    .admincontent {
+        width: 90%;
+    }
+    .logintext { 
+    width: 100%;}
+}
+
+
+
+@media screen and (max-width: 595px) {
+    .clbodycontainer {
+        width: 80%;
+    }
+    .customerlist {
+        width: 80%;
+    }
+}
+
+
+
+@media screen and (max-width: 725px) {
+    .registertext {
+        width: 80%;
+    }
+    .registerform {
+        width: 80%;
+    }
+    .loginnowbutton {
+        width: 80%;
+    }
+}

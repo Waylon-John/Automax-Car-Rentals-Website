@@ -1,0 +1,39 @@
+@media screen and (max-width: 1164px) {
+    .bookingcontainer {
+        width: 80%;
+    }
+    .bookform {
+        
+        padding: 5px;
+    }
+    #book {
+       position: static;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+       
+    }
+    #product {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid gray;
+    }
+    .bookcarpic {
+        width: 400px;
+    }
+    .carinputs {
+        text-align: center;
+        width: 80%;
+    }
+   
+
+}
+
+@media screen and (max-width: 605px) {
+
+ .bookcarpic {
+        width: 100%;
+    }
+
+}
+

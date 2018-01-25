@@ -1,0 +1,11 @@
+@media screen and (max-width: 776px) {
+    .chathead {
+        width: 90%;
+    }
+    .messagecontainer {
+        width: 90%;
+    }
+    #messageinput {
+        width: 90%;
+    }
+}
